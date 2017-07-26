@@ -32,6 +32,7 @@ installed_extras:
   - pimpmylog
   - solr
   - tideways
+  - xdebug
 
 post_provision_scripts:
   - "../examples/scripts/configure-solr.sh"
